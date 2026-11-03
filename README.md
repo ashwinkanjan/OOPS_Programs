@@ -8,10 +8,10 @@ A collection of C++ programs developed as part of the Object-Oriented Programmin
 
 | **Field** | **Details** |
 | --------- | ----------- |
-| **Name** | Harishgoud Nyamagoud|
-| **Roll No.** | 355 |
-| **Division** | C |
-| **SRN** | 01FE23BEC149 |
+| **Name** | Ashwin Kanjan |
+| **Roll No.** | 525 |
+| **Division** | E |
+| **SRN** | 01FE23BEC258 |
 | **Semester** | VII |
 
 ---
